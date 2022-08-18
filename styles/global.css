@@ -1,0 +1,23 @@
+html,
+body
+{
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: gold;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

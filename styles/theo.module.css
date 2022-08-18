@@ -1,0 +1,45 @@
+.article {
+  border-radius: 1rem;
+        margin: 1rem;
+        width: 36rem;
+        box-shadow: 1px 1px 5px;
+        height: fit-content;
+        overflow: hidden;
+
+}
+
+.header {
+  padding: 0 1rem;
+
+}
+
+.question {
+  display: flex;
+        flex-wrap: wrap;
+        border-bottom: 1px solid darkgray;
+        margin-bottom: 1rem;
+
+}
+
+.questionList {
+  display: flex;        
+        flex-direction: column;
+
+}
+
+.answer {
+  padding: 1rem; 
+  font-size: x-large;
+}
+
+.yes {
+  background-color: #60d394;
+}
+
+.no {
+  background-color: #ee6055;
+}
+
+.sorta {
+  background-color: #ffd97d;
+}
